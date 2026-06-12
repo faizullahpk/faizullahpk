@@ -1,73 +1,88 @@
 <div align="center">
 
-# Hi, I'm Faiz Ullah 👋
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:ec4899&height=200&section=header&text=Faiz%20Ullah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20DG%20Technology&descSize=18&descAlignY=58" />
 
-### Full-Stack Developer · Cybersecurity Engineer · Founder of DG Technology
+<!-- Typing animation -->
+<a href="https://faizullah.pk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=I+build+web+%26+mobile+apps+end-to-end;Real-time+systems+%C2%B7+Payments+%C2%B7+Android;React+%C2%B7+Node.js+%C2%B7+Firebase+%C2%B7+Kotlin;Founder+%40+DG+Technology" alt="Typing SVG" />
+</a>
 
-**I build real-time web apps, native mobile apps, and secure systems — end to end.**
+<br/>
 
-From multiplayer game backends to e-commerce marketplaces, from native Android apps to payment-integrated platforms — I ship complete, production-grade products.
-
-[![Website](https://img.shields.io/badge/Website-faizullah.pk-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faizullah.pk)
+[![Website](https://img.shields.io/badge/Portfolio-faizullah.pk-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faizullah.pk)
+[![Company](https://img.shields.io/badge/DG_Technology-dgtechnology.online-a855f7?style=for-the-badge&logo=rocket&logoColor=white)](https://dgtechnology.online)
 [![Email](https://img.shields.io/badge/Email-work@faizullah.pk-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@faizullah.pk)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923403518525)
+
+![Profile Views](https://komarev.com/ghpvc/?username=faizullahpk&style=flat-square&color=06b6d4)
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## 👨‍💻 About Me
 
-I'm a multi-disciplinary engineer who takes products from idea to deployment — frontend, backend, mobile, payments, security, and infrastructure. I'm the founder of **[DG Technology](https://dgtechnology.com)**, where I design and build digital solutions for clients worldwide.
+I'm a **full-stack developer** and the **founder of [DG Technology](https://dgtechnology.online)** — I design and ship complete digital products end-to-end: frontend, backend, mobile, payments, and deployment.
 
 - 🎮 **Real-time systems** — multiplayer games, live chat, WebSockets, WebRTC
 - 🛒 **Full-stack web apps** — React, Node.js, Firebase, e-commerce marketplaces
 - 📱 **Native mobile** — Android apps in Kotlin with Jetpack Compose
-- 💳 **Payment integration** — JazzCash, EasyPaisa, secure HMAC-verified flows
-- 🔒 **Security-conscious engineering** — server-authoritative logic, anti-cheat, auth systems
+- 💳 **Payment integration** — JazzCash, EasyPaisa, secure verified flows
+- 🔒 **Security-conscious** — server-authoritative logic, anti-cheat, auth systems
+
+> 💡 Everything I describe is **open-source below** — you can read the real code before you hire me.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+<div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?logo=jetpackcompose&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Backend & Realtime**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Mobile & Tools**
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎲 **[Ludo Battle](https://github.com/faizullahpk/ludo-battle)** | Real-time multiplayer tournament platform with live gameplay, voice chat & integrated payments | React · TS · Node · Socket.IO · Firebase · Android |
-| 🛒 **[ManoMano Marketplace](https://github.com/faizullahpk/manomano-marketplace)** | Multi-vendor e-commerce platform (30K+ lines) with real-time buyer/seller chat | React · Firebase · MUI |
-| 🖼️ **[WallReddit](https://github.com/faizullahpk/wallreddit-android)** | Native Android wallpaper app with auto-rotation & offline favorites | Kotlin · Compose · Clean Architecture |
-| 🏪 **[JKMart](https://github.com/faizullahpk/jkmart-store)** | Grocery & pansar e-commerce store with full admin panel | Vanilla JS · CSS3 |
-| ✈️ **[AviaTarr Arena](https://github.com/faizullahpk/aviatarr-arena)** | Real-time tournament game engine with live rounds & leaderboards | JavaScript · Custom Engine |
-| 🌅 **[SubFetch](https://github.com/faizullahpk/subfetch)** | Single-file Reddit wallpaper web app, zero dependencies | Vanilla JS · Reddit API |
+<div align="center">
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| 🎲 **[Ludo Battle](https://github.com/faizullahpk/ludo-battle)** | Real-time multiplayer tournament platform with voice chat, anti-cheat & payments | `React` `TS` `Socket.IO` `Firebase` |
+| 🛒 **[Multivendor Marketplace](https://github.com/faizullahpk/multivendor-marketplace)** | 30K-line e-commerce platform with real-time buyer/seller chat & 3 dashboards | `React` `Firebase` `MUI` |
+| 🖼️ **[Wallpaper App (Android)](https://github.com/faizullahpk/wallpaper-app-android)** | Native Android app, Clean Architecture, auto-rotation & offline favorites | `Kotlin` `Compose` `MVVM` |
+| ✈️ **[Realtime Tournament Game](https://github.com/faizullahpk/realtime-tournament-game)** | Live tournament arena with custom game engine & leaderboards | `JavaScript` `Engine` |
+| 🏪 **[E-Commerce Store Demo](https://github.com/faizullahpk/ecommerce-store-demo)** | Grocery store with cart, live search, 3D effects & full admin panel | `Vanilla JS` `CSS3` |
+| 🌅 **[Media Fetch WebApp](https://github.com/faizullahpk/media-fetch-webapp)** | Single-file media aggregator, bulk download, zero dependencies | `Vanilla JS` `API` |
+| 💼 **[Referral Platform Demo](https://github.com/faizullahpk/referral-platform-demo)** | Firebase platform with wallets, multi-level referrals & admin dashboard | `Firebase` `Firestore` |
+| 📊 **[Investment Platform Demo](https://github.com/faizullahpk/investment-platform-demo)** | Investment platform with referral network, payments & admin console | `Firebase` `JS` |
+| 🛍️ **[Shopping Platform Demo](https://github.com/faizullahpk/shopping-platform-demo)** | Shopping & earning platform with real-time live chat & wallet system | `Firebase` `Real-Time` |
+
+</div>
+
+<div align="center">
+
+### 🔍 [**See all my repositories →**](https://github.com/faizullahpk?tab=repositories)
+
+</div>
 
 ---
 
@@ -75,9 +90,12 @@ I'm a multi-disciplinary engineer who takes products from idea to deployment —
 
 <div align="center">
 
-![Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizullahpk&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizullahpk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a855f7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizullahpk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizullahpk&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizullahpk&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=ec4899&currStreakLabel=06b6d4" />
 
 </div>
 
@@ -85,17 +103,20 @@ I'm a multi-disciplinary engineer who takes products from idea to deployment —
 
 ## 💼 Let's Work Together
 
-I'm available for **freelance projects, consulting, and long-term collaborations** worldwide — remote.
-
-- 🌐 **Portfolio:** [faizullah.pk](https://faizullah.pk)
-- 🏢 **Company:** [DG Technology](https://dgtechnology.com)
-- 📧 **Email:** work@faizullah.pk
-- 💬 **WhatsApp:** [+92 340 351 8525](https://wa.me/923403518525)
-
 <div align="center">
+
+I'm available for **freelance projects, consulting & long-term collaborations** — remote, worldwide.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faizullah.pk-06b6d4?style=for-the-badge)](https://faizullah.pk)
+[![DG Technology](https://img.shields.io/badge/🏢_Company-DG_Technology-a855f7?style=for-the-badge)](https://dgtechnology.online)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-ec4899?style=for-the-badge)](mailto:work@faizullah.pk)
+
+<br/>
 
 **Building digital solutions with precision** 💙
 
-*Founder @ DG Technology*
+*Faiz Ullah · Founder @ DG Technology*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:06b6d4&height=120&section=footer" />
 
 </div>
