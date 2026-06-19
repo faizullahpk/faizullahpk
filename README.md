@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:ec4899&height=200&section=header&text=Faiz%20Ullah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20%40%20DG%20Technology&descSize=18&descAlignY=58" />
 
-<!-- Typing animation -->
 <a href="https://faizullah.pk">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=I+build+web+%26+mobile+apps+end-to-end;Real-time+systems+%C2%B7+Payments+%C2%B7+Android;React+%C2%B7+Node.js+%C2%B7+Firebase+%C2%B7+Kotlin;Founder+%40+DG+Technology" alt="Typing SVG" />
 </a>
@@ -53,7 +51,7 @@ I'm a **full-stack developer** and the **founder of [DG Technology](https://dgte
 ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 </div>
@@ -68,9 +66,11 @@ I'm a **full-stack developer** and the **founder of [DG Technology](https://dgte
 |:--------|:------------|:------|
 | 🎲 **[Ludo Battle](https://github.com/faizullahpk/ludo-battle)** | Real-time multiplayer tournament platform with voice chat, anti-cheat & payments | `React` `TS` `Socket.IO` `Firebase` |
 | 🛒 **[Multivendor Marketplace](https://github.com/faizullahpk/multivendor-marketplace)** | 30K-line e-commerce platform with real-time buyer/seller chat & 3 dashboards | `React` `Firebase` `MUI` |
+| 🛍️ **[Yala Bazaar Store](https://github.com/faizullahpk/yala-bazaar-store)** | Multi-category e-commerce store with cart, wishlist, checkout & seller panel | `JS` `Firebase` `Cloudflare` |
 | 🖼️ **[Wallpaper App (Android)](https://github.com/faizullahpk/wallpaper-app-android)** | Native Android app, Clean Architecture, auto-rotation & offline favorites | `Kotlin` `Compose` `MVVM` |
 | ✈️ **[Realtime Tournament Game](https://github.com/faizullahpk/realtime-tournament-game)** | Live tournament arena with custom game engine & leaderboards | `JavaScript` `Engine` |
 | 🏪 **[E-Commerce Store Demo](https://github.com/faizullahpk/ecommerce-store-demo)** | Grocery store with cart, live search, 3D effects & full admin panel | `Vanilla JS` `CSS3` |
+| 🎓 **[Chinova Institute](https://github.com/faizullahpk/chinova-institute)** | Chinese language institute site — classes, HSK prep, translation & visa consultancy | `HTML5` `CSS3` `JS` |
 | 🌅 **[Media Fetch WebApp](https://github.com/faizullahpk/media-fetch-webapp)** | Single-file media aggregator, bulk download, zero dependencies | `Vanilla JS` `API` |
 | 💼 **[Referral Platform Demo](https://github.com/faizullahpk/referral-platform-demo)** | Firebase platform with wallets, multi-level referrals & admin dashboard | `Firebase` `Firestore` |
 | 📊 **[Investment Platform Demo](https://github.com/faizullahpk/investment-platform-demo)** | Investment platform with referral network, payments & admin console | `Firebase` `JS` |
