@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Faiz%20Ullah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Co-Founder%20%26%20CTO%20@%20DG%20Technology&descAlignY=58&descSize=20&animation=fadeIn&v=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Faiz%20Ullah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Co-Founder%20%2B%20CTO%20%40%20DG%20Technology&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://faizullah.pk">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Cybersecurity+Engineer;React+%C2%B7+Node.js+%C2%B7+Firebase+%C2%B7+Next.js+%C2%B7+TypeScript;Building+real+products%2C+not+demos;Co-Founder+%26+CTO+%40+DG+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Cybersecurity+Engineer;React+%C2%B7+Node.js+%C2%B7+Firebase+%C2%B7+Next.js+%C2%B7+TypeScript;Building+real+products%2C+not+demos;Co-Founder+%2B+CTO+%40+DG+Technology" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,36 +13,60 @@
 <a href="https://wa.me/923403518525"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:work@faizullah.pk"><img src="https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/15+-Domains_Mastered-06b6d4?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/150+-Tools_%26_Skills-8b5cf6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/40+-Clients_Served-ec4899?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/5+-Years_Experience-06b6d4?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/200+-Devices_Repaired-8b5cf6?style=flat-square&labelColor=0D1117" />
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ## `whoami`
 
 ```yaml
 name: Faiz Ullah
-role: Co-Founder & CTO @ DG Technology
+role: Co-Founder + CTO @ DG Technology
 based_in: Pakistan
 focus: [Full-Stack Web, Mobile, Real-Time Systems, Cybersecurity]
 philosophy: "Ship real, working products — not demos."
 currently_building: 15+ live client platforms across UAE & Pakistan
 ```
 
-I build complete, production-ready software end to end — frontend, backend, database, payments, deployment — without handing a project off to a team of five people. From real-time multiplayer platforms to full booking systems with admin panels, if it needs to actually work in production, it's the kind of thing I build.
+I'm a self-taught, multi-domain developer — there's nothing online or offline I won't learn, build, fix, or master. From writing full-stack booking platforms to repairing hardware, from ranking sites on Google to shipping real-time multiplayer systems, I build complete products end to end: frontend, backend, database, payments, deployment — without handing a project off to a team of five people.
 
-Co-Founder & CTO of **[DG Technology](https://dgtechnology.ae)** — a registered studio building web, mobile, and cloud products for clients across Pakistan and the UAE. **Misbah Ullah** is Founder & President.
+Co-Founder + CTO of **[DG Technology](https://dgtechnology.ae)** — a registered studio building web, mobile, and cloud products for clients across Pakistan and the UAE. **Misbah Ullah** is Founder & President. Together we've shipped 15+ live client platforms, from e-commerce marketplaces to travel booking systems to real-time games.
 
-<br/>
+**Right now, I'm:**
+- 🏗️ Building and maintaining production platforms for clients across UAE & Pakistan
+- 🔐 Deepening my cybersecurity practice — exploit research, hardware hacking, bug bounty
+- 📈 Growing DG Technology through Upwork, direct client work, and paid acquisition
+- ✍️ Writing technical breakdowns of real projects on [Dev.to](https://dev.to) & [Hashnode](https://hashnode.com)
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ## `cat skills.txt`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,firebase,postgres,prisma,tailwind,html,css,py,kotlin,php,git,github,figma,vercel,cloudflare,docker&theme=dark" />
-
-</div>
-
+**Frontend**
 <br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" />
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,postgres,prisma,php,py&theme=dark" />
+
+**Mobile & Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,linux,bash&theme=dark" />
+
+**Tools & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,docker,figma,vscode&theme=dark" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ## `ls featured-projects/`
 
@@ -119,6 +143,24 @@ Full storefront + admin panel built with zero frameworks — vanilla state manag
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🏢 [DXB Ejari](https://github.com/faizullahpk/dxb-ejari-website)
+14-page Dubai tenancy & Ejari registration service site — dedicated landing page per service type.
+
+`Vanilla JS` `SEO`
+
+</td>
+<td width="50%">
+
+### 🧽 [Discount Carpet Cleaning](https://github.com/faizullahpk/discount-carpet-cleaning)
+Dubai service business site with a self-serve, passcode-gated image admin panel.
+
+`PHP` `Vanilla JS`
+
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -127,7 +169,7 @@ Full storefront + admin panel built with zero frameworks — vanilla state manag
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ## `git log --stats`
 
@@ -140,7 +182,7 @@ Full storefront + admin panel built with zero frameworks — vanilla state manag
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ## `cat contact.json`
 
@@ -158,6 +200,10 @@ Full storefront + admin panel built with zero frameworks — vanilla state manag
 
 <a href="https://faizullah.pk"><img src="https://img.shields.io/badge/View_Portfolio-06b6d4?style=for-the-badge&logoColor=white" /></a>
 <a href="https://dgtechnology.ae"><img src="https://img.shields.io/badge/Hire_DG_Technology-8b5cf6?style=for-the-badge&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>"Nothing online or offline is off-limits."</i>
 
 </div>
 
