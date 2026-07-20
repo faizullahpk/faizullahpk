@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Faiz%20Ullah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Co-Founder%20%26%20CTO%20@%20DG%20Technology&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=220&section=header&text=Faiz%20Ullah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Co-Founder%20%26%20CTO%20@%20DG%20Technology&descAlignY=58&descSize=20&animation=fadeIn&v=2" width="100%"/>
 
 <a href="https://faizullah.pk">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%C2%B7+Cybersecurity+Engineer;React+%C2%B7+Node.js+%C2%B7+Firebase+%C2%B7+Next.js+%C2%B7+TypeScript;Building+real+products%2C+not+demos;Co-Founder+%26+CTO+%40+DG+Technology" alt="Typing SVG" />
